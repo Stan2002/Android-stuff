@@ -1,2 +1,2 @@
-# Android-stuff
-My Android stuff and apps/
+# Android Stuff
+My Android stuff and apps.
